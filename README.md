@@ -241,4 +241,4 @@ This repository serves as the official landing page for VisualBoyAdvance-M. The 
 **Get the most recent version of VisualBoyAdvance-M today!**
 
 ---
-**Last updated:** 2026-10-07 20:24:02 UTC
+**Last updated:** 2026-10-08 00:34:55 UTC
